@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlphaGhostUSMC
 - 👀 I’m interested in AIML, Java, Powershell, Python and Astrophysics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Projects
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me ...
 
 <!---
