@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlphaGhostUSMC
+- 👋 Hi, I’m @QWxwaGEgU2lsdmVyQmFjaw==
 - 👀 I’m interested in AI, Fullstack, Powershell, Python and Astrophysics
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on NLP Projects
