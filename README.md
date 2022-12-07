@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QWxwaGEgU2lsdmVyQmFjaw==
-- 👀 I’m interested in AI, Fullstack, Powershell, Python and Astrophysics
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on NLP Projects
+- 👀 I’m interested in Machine Learning, Deep Learning and Data Science
+- 🌱 I’m currently learning Rust Programming
+- 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me ...
 
 <!---
