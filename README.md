@@ -14,7 +14,7 @@ I have a strong foundation in Python, PowerShell, and Rust, and I enjoy learning
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/AlphaGhostUSMC.svg?style=social&label=Follow)](https://github.com/AlphaGhostUSMC) [![Kaggle](https://img.shields.io/kaggle/followers/[your-username]?style=social&label=Follow)](https://www.kaggle.com/[your-username]) [![Reddit](https://img.shields.io/reddit/user-karma/combined/[your-username]?style=social&label=karma)](https://www.reddit.com/user/[your-username])
+[![GitHub followers](https://img.shields.io/github/followers/AlphaGhostUSMC.svg?style=social&label=Follow)](https://github.com/AlphaGhostUSMC) [![Kaggle](https://img.shields.io/kaggle/followers/AlphaGhostUSMC?style=social&label=Follow)](https://www.kaggle.com/alphaghostusmc) [![Reddit](https://img.shields.io/reddit/user-karma/combined/JustANonRandomPerson?style=social&label=karma)](https://www.reddit.com/user/JustANonRandomPerson)
 <!---
 AlphaGhostUSMC/AlphaGhostUSMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
