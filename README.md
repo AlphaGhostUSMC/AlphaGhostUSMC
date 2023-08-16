@@ -1,15 +1,15 @@
 # Hi, I'm QWxwaGEgU2lsdmVyQmFjaw==
 
-I'm a machine learning engineer with a passion for solving complex problems and building innovative solutions. My background includes experience in software development, data center administration, and industrial automation, which gives me a unique perspective on how to approach ML projects.
+I'm a Computer engineer with a passion for solving complex problems and building innovative solutions. My background includes experience in software development, data center administration, and industrial automation, which gives me a unique perspective on how to approach ML projects.
 
-I have a strong foundation in Python, PowerShell, and Rust, and I enjoy learning and experimenting with new technologies. I'm always looking to collaborate and learn from other ML engineers around the world, so don't hesitate to reach out if you have any projects or ideas that you'd like to discuss.
+I have a strong foundation in Python, PowerShell, and Rust, and I enjoy learning and experimenting with new technologies. I'm always looking to collaborate and learn from other engineers around the world, so don't hesitate to reach out if you have any projects or ideas that you'd like to discuss.
 
 ## Skills
 - Machine learning
 - Python
 - PowerShell
 - Rust
-- Data center Administration
+- Datacenter Administration
 - Industrial automation
 
 ---
