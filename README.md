@@ -1,16 +1,20 @@
-# Hi, I'm QWxwaGEgU2lsdmVyQmFjaw==
+🚀 Crafting code and connecting clouds ☁️ | Software Alchemist 🖥️ | Explorer of Data Realms 🌌
 
-I'm a Computer engineer with a passion for solving complex problems and building innovative solutions. My background includes experience in software development, data center administration, and industrial automation, which gives me a unique perspective on how to approach ML projects.
+👋 Hey there, I'm QWxwaGEgU2lsdmVyQmFjaw==! I've donned many hats with a foundation built on 8 years of journeying through the digital landscapes as a DataCenter Architect and Industrial Automation Engineer. 🛠️ Now, I'm scripting my next chapter as a budding Computer Engineering extraordinaire, fueling my passion as a Software Developer intern.
 
-I have a strong foundation in Python, PowerShell, and Rust, and I enjoy learning and experimenting with new technologies. I'm always looking to collaborate and learn from other engineers around the world, so don't hesitate to reach out if you have any projects or ideas that you'd like to discuss.
+📚 Senior year of my Bachelor in Computer Engineering? Check. 🌟 Year-long expedition into the realms of coding excellence? Double-check. I've been crafting elegant solutions in the digital forge for the past year, all while absorbing every byte of knowledge around me.
 
-## Skills
-- Machine learning
-- Python
-- PowerShell
-- Rust
-- Datacenter Administration
-- Industrial automation
+🌐 Networking wizardry and Datacenter mastery are part of my core skill set. I wield the mighty troubleshooter's sword to vanquish issues plaguing servers and PCs. Need a connection established or a data haven built? I'm your architect.
+
+🔮 My spellbook of languages is quite enchanting: I command the mystical forces of PowerShell, the serpentine elegance of Python, and the robust strength of Rust to shape the digital ether into wondrous creations.
+
+☁️ Clouds don't intimidate me; they're my playground. With Azure and GCP as my trusty companions, I mold the nebulous foundations of the digital sky into tangible, awe-inspiring structures.
+
+🛠️ Armed with a virtual toolkit including Microsoft Intune, VMWare, and Citrix, I'm like a modern-day digital blacksmith, hammering out solutions that withstand the tests of time and functionality.
+
+🌟 Join me as I weave my passion for engineering, love for coding, and curiosity about the cosmos. The path to becoming the best software developer is a constellation of challenges, and I'm navigating each one with a spark in my eye and a line of code at my fingertips.
+
+Connect with me as I script the saga of technology and innovation. Let's build, let's code, and let's journey beyond the stars of possibility! 🚀🔗👾
 
 ---
 
