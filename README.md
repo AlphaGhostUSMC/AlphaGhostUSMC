@@ -1,80 +1,52 @@
-# Hi there 👋 I'm QWxwaGEgU2lsdmVyQmFjaw
+# Hi, I'm QWxwaGEgU2lsdmVyQmFjaw 👋
 
-Software Engineering Lead, Principal Architect, and Computer Engineer with 13+ years of experience spanning Enterprise Software Development, Cloud Platforms, Data Center Architecture, Infrastructure Engineering, and Industrial Automation.
+I'm a software engineer and architect with a background in computer engineering, infrastructure, and industrial automation.
 
-My career started in Technical Support and System Administration, evolved through Data Center Administration and Architecture, and ultimately transitioned into Software Engineering and Platform Architecture. This journey gives me a unique ability to design systems from the hardware layer all the way to cloud-native applications.
+I've spent over 13 years working across different areas of technology, starting with technical support and system administration, moving into data centers and infrastructure architecture, and eventually transitioning into software engineering.
 
-## What I Do
+Working across these areas has given me a broader perspective on how systems actually work, from the underlying infrastructure to the applications running on top of it.
 
-- Design and build scalable enterprise software platforms
-- Architect distributed systems and cloud-native applications
-- Lead engineering teams and technical initiatives
-- Develop backend services using Python, C#, and Rust
-- Design APIs, microservices, and event-driven systems
-- Build DevOps and automation solutions
-- Integrate AI and Machine Learning capabilities into enterprise products
+## What I Work With
 
-## Technical Expertise
+Most of my work revolves around designing systems, solving technical problems, and figuring out how to make things work reliably at scale.
 
-### Software Engineering
-- Python
-- C#
-- Rust
-- PowerShell
-- REST APIs
-- Microservices
-- Distributed Systems
-- System Design
+- Building backend services and APIs with Python, C#, and Rust
+- Designing distributed systems and cloud-native applications
+- Working with AWS, Azure, containers, and orchestration platforms
+- Automating infrastructure and repetitive tasks
+- Exploring ways to integrate AI into real-world applications
+- Working on system architecture, performance, and reliability
 
-### Cloud & Platform Engineering
-- AWS
-- Azure
-- Docker
-- Kubernetes
-- CI/CD
-- Infrastructure as Code
-- Observability & Monitoring
+## My Technical Background
 
-### Infrastructure & Virtualization
-- VMware
-- Hyper-V
-- OpenStack
-- OpenNebula
-- Windows Server
-- Linux
-- Active Directory
-- Enterprise Storage Systems
+**Languages & Development**
 
-### Automation
-- Industrial Automation
-- Infrastructure Automation
-- PowerShell Automation
-- Python Automation
-- Process Optimization
+Python · C# · Rust · PowerShell · JavaScript · REST APIs · Microservices
 
-## Areas of Interest
+**Cloud & DevOps**
 
-- Distributed Systems
-- Platform Engineering
-- Cloud Architecture
-- Artificial Intelligence
-- Machine Learning
-- System Design
-- Game Development
-- Astrophysics & Cosmology
+AWS · Azure · Docker · Kubernetes · CI/CD · Infrastructure as Code · Monitoring
 
-## Engineering Philosophy
+**Infrastructure & Virtualization**
 
-Build systems that are:
+VMware · Hyper-V · OpenStack · OpenNebula · Linux · Windows Server · Active Directory · Storage Systems
 
-- Reliable
-- Scalable
-- Maintainable
-- Observable
-- Secure
+**Automation**
 
-Technology changes rapidly, but good architecture, sound engineering principles, and continuous learning remain timeless.
+Infrastructure Automation · Industrial Automation · Scripting · Process Automation
+
+## Things I'm Interested In
+
+I'm particularly interested in distributed systems, system design, cloud architecture, and artificial intelligence. I also enjoy exploring topics outside my day-to-day work, including game development, astronomy, and cosmology.
+
+I like understanding how things work under the hood, whether that's a software system, a piece of infrastructure, or something in the universe.
+
+## A Bit About How I Work
+
+I prefer understanding a problem before jumping into a solution. I'm interested in the trade-offs behind technical decisions, not just which technology is currently popular.
+
+I also believe there's always something new to learn. Technology keeps changing, and I enjoy figuring out what those changes make possible.
 
 ---
 
-*"Adapt. Improvise. Overcome."*
+*Adapt. Improvise. Overcome.*
